@@ -5,5 +5,6 @@ public class Helloworld {
 		System.out.println("Yak, husky");
 		System.out.println("야 야 야 야 야");
 		System.out.println("짱구 시간표 만들기");
+		System.out.println("코드 수정");
 	}
 }
